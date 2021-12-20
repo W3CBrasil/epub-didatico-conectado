@@ -15,7 +15,7 @@ Espaço para desenvolvimento do experimento
 O ePUB Didático Conectado é um experimento untilizando padrões web, semântica, metadados, acessibilidade digital e APIs para comunicação de dados. 
 
 
-## Para utilizar o modelo este modelo
+## Para utilizar este modelo
 
 Para um resultado mais rápido e seguro, nós recomendamos utlizar o editor de código aberto para ePUB **Sigil**: 
 
