@@ -1,0 +1,34 @@
+.quizlib-question {
+    margin-bottom: 1em;
+}
+
+.quizlib-question-title {}
+
+.quizlib-question-answers ul {
+    list-style: none;
+}
+
+.quizlib-question-warning {
+    color: #E91C0D;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+}
+
+
+.quizlib-correct {
+    color: #3A863D;
+}
+
+.quizlib-correct::after {
+    content: "← Correto";
+    margin-left: 1em;
+}
+
+.quizlib-incorrect {
+    color: #E91C0D;
+}
+
+/* .quizlib-incorrect::after {
+    color: #E91C0D;
+    content: " ❗ Errado!";
+} */

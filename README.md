@@ -36,4 +36,45 @@ Segundo a recomendação do consórcio DAISY
 
 https://daisy.org/activities/software/ace/
 
+---
 
+ # O que devo fazer para funcionar?
+
+ O arquivo **.epub** está pronto para funcionar em qualquer
+ leitor de de livros eletrônicos que suportem os padrões do
+  EPUB3 do W3C.
+
+  Algumas sugestões:
+
+**Thorium Reader**
+https://www.edrlab.org/software/thorium-reader/
+
+**Lithium: Lithium: Leitor de EPUB**
+https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=pt_BR&gl=US
+
+## O que devo editar para gravar as questões no banco de dados remoto?
+
+No arquivo `misc/credenciais.js` você pode editar os dados de 
+aluno, professor e *endpoint* da xAPI, fornecido pelo repositório LRS
+de sua preferência. 
+
+```js
+var aluno =   {
+    "nome": "Nome do Aluno",
+    "email": "aluno@email.com"
+}
+
+var professor =   {
+    "nome": "Nome do Professor",
+    "email": "professor@email.com"
+}
+
+var xapi ={
+    headers: {
+        "Content-Type": "application/json",
+        "X-Experience-API-Version": "1.0.3",
+        "Authorization": "Basic M2QzYTZiNWJkY2UyOWQ",
+      },
+      endpoint: "https://xapi.xyz/data/xAPI/statements"
+}
+```

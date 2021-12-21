@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/simas/Dropbox/latex/livro_de_fracoes/tex/figuras/licao02/orgideias_fig01b.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="orgideias_fig01b.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="224.52598"
+     inkscape:cy="744.06056"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="-32.3249,882.873"
+     inkscape:measure-end="702.056,755.594"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path10486"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <symbol
+       id="RightAndDownArrow">
+      <title
+         id="title3704">Right and Down Arrow</title>
+      <path
+         id="path3706"
+         style="stroke:none;stroke-width:0.26458332"
+         d="M 14.816667,14.816667 H 6.35 L 3.4395833,11.90625 h 6.35 L 3.7041667,5.8208333 5.8208333,3.7041667 11.90625,9.7895833 v -6.35 L 14.816667,6.35 Z"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10486-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1">
+    <g
+       transform="matrix(1.5327517,0,0,1.5327517,18.607755,-51.284185)"
+       id="g33">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="49.236946"
+         y="94.137062"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="49.236946"
+           y="94.137062"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">n</tspan></text>
+      <rect
+         style="fill:#000000;stroke-width:0.15645406"
+         id="rect18"
+         width="13.831196"
+         height="0.53453934"
+         x="45.435822"
+         y="95.74604" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="48.958672"
+         y="105.86771"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="48.958672"
+           y="105.86771"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">d</tspan></text>
+    </g>
+    <text
+       id="text26"
+       y="83.516205"
+       x="4.7528625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:7.05555534px;stroke-width:0.26458332"
+         y="83.516205"
+         x="4.7528625"
+         id="tspan24"
+         sodipodi:role="line">Denominador da fração</tspan></text>
+    <text
+       id="text37"
+       y="93.340622"
+       x="41.429977"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:5.40999985px;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan54"
+         style="font-size:5.64444447px;line-height:5.40999985px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="93.340622"
+         x="42.201679"
+         sodipodi:role="line">Diz como a unidade é </tspan><tspan
+         id="tspan41"
+         style="font-size:5.64444447px;line-height:5.40999985px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="99.573769"
+         x="41.429977"
+         sodipodi:role="line"> repartida em partes iguais e</tspan><tspan
+         id="tspan60"
+         style="font-size:5.64444447px;line-height:5.40999985px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="105.80692"
+         x="42.201679"
+         sodipodi:role="line"> nomeia essas partes: meio, </tspan><tspan
+         id="tspan68"
+         style="font-size:5.64444447px;line-height:5.40999985px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="112.04007"
+         x="41.429977"
+         sodipodi:role="line"> terço, quarto, ... , décimo etc.</tspan></text>
+    <text
+       id="text26-8"
+       y="83.773201"
+       x="122.26086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:7.05555534px;stroke-width:0.26458332"
+         y="83.773201"
+         x="122.26086"
+         id="tspan24-1"
+         sodipodi:role="line">Numerador da fração</tspan></text>
+    <text
+       id="text37-3"
+       y="93.606674"
+       x="157.15256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:5.41000032px;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan60-4"
+         style="font-size:5.64444447px;line-height:5.41000032px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="93.606674"
+         x="157.92426"
+         sodipodi:role="line">Diz o número de meios, </tspan><tspan
+         id="tspan124"
+         style="font-size:5.64444447px;line-height:5.41000032px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="99.839821"
+         x="157.15256"
+         sodipodi:role="line">terços, quartos etc. que estão</tspan><tspan
+         style="font-size:5.64444447px;line-height:5.41000032px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="106.07297"
+         x="157.15256"
+         sodipodi:role="line"
+         id="tspan45">sendo considerados.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19667634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 79.65187,95.940067 7.003671,7.072563"
+       id="path10463"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="0.093440514"
+       inkscape:transform-center-y="1.8329782" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19667634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-6)"
+       d="m 119.75474,87.82093 -9.61366,2.57878"
+       id="path10463-7"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="1.5458155"
+       inkscape:transform-center-y="-0.9894363" />
+  </g>
+</svg>

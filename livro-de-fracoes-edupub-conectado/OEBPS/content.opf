@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:subject>Matemática do Ensino Fundamental</dc:subject>
+    <dc:language>pt-BR</dc:language>
+    <dc:title>Livro de Frações</dc:title>
+    <dc:creator id="cre">Projeto: LIVRO ABERTO DE MATEMÁTICA</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <meta property="dcterms:modified">2021-12-17T09:38:02Z</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityHazard">flashing</meta>
+    <meta property="schema:accessibilityHazard">motionSimulation</meta>
+    <meta property="schema:accessibilitySummary">Esta publicação está em conformidade com a especificação EPUB Accessibility WCAG nível AA.</meta>
+    <dc:identifier id="BookId">urn:uuid:133e1e11-3ff2-4ae1-9b60-5c974932f76f</dc:identifier>
+    <meta content="1.8.0" name="Sigil version"/>
+    <meta name="cover" content="capa-fracoes.png"/>
+    <meta/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="creditos.xhtml" href="Text/creditos.xhtml" media-type="application/xhtml+xml" properties="scripted remote-resources"/>
+    <item id="introducao.xhtml" href="Text/introducao.xhtml" media-type="application/xhtml+xml"/>
+    <item id="licao01_ativ1_fig01-antigo.png" href="Images/licao01_ativ1_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao01_ativ1_fig01.png" href="Images/licao01_ativ1_fig01.png" media-type="image/png"/>
+    <item id="licao01_ativ1_fig02.png" href="Images/licao01_ativ1_fig02.png" media-type="image/png"/>
+    <item id="licao01_ativ1_fig02.svg" href="Images/licao01_ativ1_fig02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ1_fig02a.png" href="Images/licao01_ativ1_fig02a.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig01-agnes.png" href="Images/licao01_ativ2_fig01-agnes.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig01-antigo.png" href="Images/licao01_ativ2_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig01.png" href="Images/licao01_ativ2_fig01.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig01.svg" href="Images/licao01_ativ2_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ2_fig02-agnes.png" href="Images/licao01_ativ2_fig02-agnes.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig02.png" href="Images/licao01_ativ2_fig02.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig02.svg" href="Images/licao01_ativ2_fig02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ2_fig03.png" href="Images/licao01_ativ2_fig03.png" media-type="image/png"/>
+    <item id="licao01_ativ2_fig03.svg" href="Images/licao01_ativ2_fig03.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ3_fig01-agnes.png" href="Images/licao01_ativ3_fig01-agnes.png" media-type="image/png"/>
+    <item id="licao01_ativ3_fig01.png" href="Images/licao01_ativ3_fig01.png" media-type="image/png"/>
+    <item id="licao01_ativ3_fig01.svg" href="Images/licao01_ativ3_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ3_fig02.png" href="Images/licao01_ativ3_fig02.png" media-type="image/png"/>
+    <item id="licao01_ativ3_fig03.png" href="Images/licao01_ativ3_fig03.png" media-type="image/png"/>
+    <item id="licao01_ativ3_fig03.svg" href="Images/licao01_ativ3_fig03.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ3_fig03a.png" href="Images/licao01_ativ3_fig03a.png" media-type="image/png"/>
+    <item id="licao01_ativ3_fig03b.png" href="Images/licao01_ativ3_fig03b.png" media-type="image/png"/>
+    <item id="licao01_barbantes-agnes.png" href="Images/licao01_barbantes-agnes.png" media-type="image/png"/>
+    <item id="licao01_caminho-reproducao-01.jpg" href="Images/licao01_caminho-reproducao-01.jpg" media-type="image/jpeg"/>
+    <item id="licao01_caminho-reproducao-02.jpg" href="Images/licao01_caminho-reproducao-02.jpg" media-type="image/jpeg"/>
+    <item id="licao01_copos-cheios-agnes.png" href="Images/licao01_copos-cheios-agnes.png" media-type="image/png"/>
+    <item id="licao01_copos-incompletos-agnes.png" href="Images/licao01_copos-incompletos-agnes.png" media-type="image/png"/>
+    <item id="licao01_lapis-agnes.png" href="Images/licao01_lápis-agnes.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig01-agnes.png" href="Images/licao01_orgideias_fig01-agnes.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig01.png" href="Images/licao01_orgideias_fig01.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig01.svg" href="Images/licao01_orgideias_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_orgideias_fig02-agnes.png" href="Images/licao01_orgideias_fig02-agnes.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig02.png" href="Images/licao01_orgideias_fig02.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig03.png" href="Images/licao01_orgideias_fig03.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig03a.png" href="Images/licao01_orgideias_fig03a.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig03b.png" href="Images/licao01_orgideias_fig03b.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig04.png" href="Images/licao01_orgideias_fig04.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig05-antigo.png" href="Images/licao01_orgideias_fig05-antigo.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig05.png" href="Images/licao01_orgideias_fig05.png" media-type="image/png"/>
+    <item id="licao01_orgideias_fig05.svg" href="Images/licao01_orgideias_fig05.svg" media-type="image/svg+xml"/>
+    <item id="licao01_paralelepipedo_tercos.png" href="Images/licao01_paralelepipedo_tercos.png" media-type="image/png"/>
+    <item id="licao01_personagens_licao_01_umlivroaberto-04.png" href="Images/licao01_personagens_licao_01_umlivroaberto-04.png" media-type="image/png"/>
+    <item id="licao01_pizza-cortada-agnes.png" href="Images/licao01_pizza-cortada-agnes.png" media-type="image/png"/>
+    <item id="licao01_pizzaria-do-artista-agnes.jpg" href="Images/licao01_pizzaria-do-artista-agnes.jpg" media-type="image/jpeg"/>
+    <item id="licao01_reflet_fig01.png" href="Images/licao01_reflet_fig01.png" media-type="image/png"/>
+    <item id="licao01_reflet_fig02.png" href="Images/licao01_reflet_fig02.png" media-type="image/png"/>
+    <item id="licao01_reflet_fig02.svg" href="Images/licao01_reflet_fig02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_reflet_fig03.png" href="Images/licao01_reflet_fig03.png" media-type="image/png"/>
+    <item id="licao01_reflet_fig03.svg" href="Images/licao01_reflet_fig03.svg" media-type="image/svg+xml"/>
+    <item id="licao01_reflet_fig04.png" href="Images/licao01_reflet_fig04.png" media-type="image/png"/>
+    <item id="licao01_reflet_fig04.svg" href="Images/licao01_reflet_fig04.svg" media-type="image/svg+xml"/>
+    <item id="licao01_sanduiche-agnes.png" href="Images/licao01_sanduiche-agnes.png" media-type="image/png"/>
+    <item id="licao02_ativ3_fig01-antigo.png" href="Images/licao02_ativ3_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao02_ativ3_fig01.png" href="Images/licao02_ativ3_fig01.png" media-type="image/png"/>
+    <item id="licao02_ativ3_resposta-antigo.png" href="Images/licao02_ativ3_resposta-antigo.png" media-type="image/png"/>
+    <item id="licao02_ativ3_resposta.png" href="Images/licao02_ativ3_resposta.png" media-type="image/png"/>
+    <item id="licao02_ativ10-fig01.png" href="Images/licao02_ativ10-fig01.png" media-type="image/png"/>
+    <item id="licao02_ativ12_fig01.png" href="Images/licao02_ativ12_fig01.png" media-type="image/png"/>
+    <item id="licao02_ativ12_resposta.png" href="Images/licao02_ativ12_resposta.png" media-type="image/png"/>
+    <item id="licao02_ativ18_fig01.png" href="Images/licao02_ativ18_fig01.png" media-type="image/png"/>
+    <item id="licao02_carrinho.png" href="Images/licao02_carrinho.png" media-type="image/png"/>
+    <item id="licao02_carrinho1.png" href="Images/licao02_carrinho1.png" media-type="image/png"/>
+    <item id="licao02_carrinho2.png" href="Images/licao02_carrinho2.png" media-type="image/png"/>
+    <item id="licao02_carrinho3.png" href="Images/licao02_carrinho3.png" media-type="image/png"/>
+    <item id="licao02_carrinho4.png" href="Images/licao02_carrinho4.png" media-type="image/png"/>
+    <item id="licao02_carrinho5.png" href="Images/licao02_carrinho5.png" media-type="image/png"/>
+    <item id="licao02_carrinho6.png" href="Images/licao02_carrinho6.png" media-type="image/png"/>
+    <item id="licao02_orgideias_fig01.png" href="Images/licao02_orgideias_fig01.png" media-type="image/png"/>
+    <item id="licao02_orgideias_fig01.svg" href="Images/licao02_orgideias_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_fig01b.png" href="Images/licao02_orgideias_fig01b.png" media-type="image/png"/>
+    <item id="licao02_orgideias_fig01b.svg" href="Images/licao02_orgideias_fig01b.svg" media-type="image/svg+xml"/>
+    <item id="licao02_pag_25_ativ_12.png" href="Images/licao02_pag%2025%20ativ%2012.png" media-type="image/png"/>
+    <item id="licao02_pag_26_ativ_12.png" href="Images/licao02_pag%2026%20ativ%2012.png" media-type="image/png"/>
+    <item id="licao02_pag-25-ativ-12.png" href="Images/licao02_pag-25-ativ-12.png" media-type="image/png"/>
+    <item id="licao02_pag-26-ativ-12.png" href="Images/licao02_pag-26-ativ-12.png" media-type="image/png"/>
+    <item id="licao02_quadrinho_01.png" href="Images/licao02_quadrinho_01.png" media-type="image/png"/>
+    <item id="licao02_quadrinho_01.svg" href="Images/licao02_quadrinho_01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_quadrinho_02.png" href="Images/licao02_quadrinho_02.png" media-type="image/png"/>
+    <item id="licao02_quadrinho_02.svg" href="Images/licao02_quadrinho_02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_quadrinho_03.png" href="Images/licao02_quadrinho_03.png" media-type="image/png"/>
+    <item id="licao02_quadrinho_03.svg" href="Images/licao02_quadrinho_03.svg" media-type="image/svg+xml"/>
+    <item id="licao02_quadrinho_04.png" href="Images/licao02_quadrinho_04.png" media-type="image/png"/>
+    <item id="licao02_quadrinho_04.svg" href="Images/licao02_quadrinho_04.svg" media-type="image/svg+xml"/>
+    <item id="licao02_quadrinho-licao2-agnes-sem-texto.png" href="Images/licao02_quadrinho-licao2-agnes-sem-texto.png" media-type="image/png"/>
+    <item id="licao02_quadrinho-licao2-agnes.jpg" href="Images/licao02_quadrinho-licao2-agnes.jpg" media-type="image/jpeg"/>
+    <item id="licao02_quadrinho-licao2-agnes.png" href="Images/licao02_quadrinho-licao2-agnes.png" media-type="image/png"/>
+    <item id="licao02_tartaruga.png" href="Images/licao02_tartaruga.png" media-type="image/png"/>
+    <item id="licao03_-.png" href="Images/licao03_-.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig_professor.png" href="Images/licao03_ativ1_fig_professor.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig01.png" href="Images/licao03_ativ1_fig01.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig02.png" href="Images/licao03_ativ1_fig02.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig03.png" href="Images/licao03_ativ1_fig03.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig04.png" href="Images/licao03_ativ1_fig04.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig05.png" href="Images/licao03_ativ1_fig05.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig06.png" href="Images/licao03_ativ1_fig06.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig07.png" href="Images/licao03_ativ1_fig07.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig08.png" href="Images/licao03_ativ1_fig08.png" media-type="image/png"/>
+    <item id="licao03_ativ1_fig09.png" href="Images/licao03_ativ1_fig09.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_a.png" href="Images/licao03_ativ2_fig_a.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_a.svg" href="Images/licao03_ativ2_fig_a.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ2_fig_b_meia_pizza.png" href="Images/licao03_ativ2_fig_b_meia_pizza.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_b_quarto_pizza.png" href="Images/licao03_ativ2_fig_b_quarto_pizza.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_b_tres_quartos_pizza.png" href="Images/licao03_ativ2_fig_b_tres_quartos_pizza.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_b.png" href="Images/licao03_ativ2_fig_b.png" media-type="image/png"/>
+    <item id="licao03_ativ2_fig_b.svg" href="Images/licao03_ativ2_fig_b.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ2_fig_b2.png" href="Images/licao03_ativ2_fig_b2.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_a-antigo.png" href="Images/licao03_ativ4_fig_a-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_a.png" href="Images/licao03_ativ4_fig_a.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_a.svg" href="Images/licao03_ativ4_fig_a.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ4_fig_a0-antigo.png" href="Images/licao03_ativ4_fig_a0-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_a0.png" href="Images/licao03_ativ4_fig_a0.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_b-antigo.png" href="Images/licao03_ativ4_fig_b-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_b.png" href="Images/licao03_ativ4_fig_b.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_c-antigo.png" href="Images/licao03_ativ4_fig_c-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_c.png" href="Images/licao03_ativ4_fig_c.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_c.svg" href="Images/licao03_ativ4_fig_c.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ4_fig_d.png" href="Images/licao03_ativ4_fig_d.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_d.svg" href="Images/licao03_ativ4_fig_d.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ4_fig_d2-antigo.png" href="Images/licao03_ativ4_fig_d2-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_d2.png" href="Images/licao03_ativ4_fig_d2.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_e-antigo.png" href="Images/licao03_ativ4_fig_e-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_e.png" href="Images/licao03_ativ4_fig_e.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_f-antigo.png" href="Images/licao03_ativ4_fig_f-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_f.png" href="Images/licao03_ativ4_fig_f.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_f2.jpg" href="Images/licao03_ativ4_fig_f2.jpg" media-type="image/jpeg"/>
+    <item id="licao03_ativ4_fig_f2.png" href="Images/licao03_ativ4_fig_f2.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_g-antigo.png" href="Images/licao03_ativ4_fig_g-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ4_fig_g.png" href="Images/licao03_ativ4_fig_g.png" media-type="image/png"/>
+    <item id="licao03_ativ7_fig01.png" href="Images/licao03_ativ7_fig01.png" media-type="image/png"/>
+    <item id="licao03_ativ9_fig01.png" href="Images/licao03_ativ9_fig01.png" media-type="image/png"/>
+    <item id="licao03_ativ9_fig01b-antigo.png" href="Images/licao03_ativ9_fig01b-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ9_fig01b.png" href="Images/licao03_ativ9_fig01b.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_a.png" href="Images/licao03_ativ9_resp_a.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_b.png" href="Images/licao03_ativ9_resp_b.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_c.png" href="Images/licao03_ativ9_resp_c.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_d.png" href="Images/licao03_ativ9_resp_d.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_e.png" href="Images/licao03_ativ9_resp_e.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_f.png" href="Images/licao03_ativ9_resp_f.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_g.png" href="Images/licao03_ativ9_resp_g.png" media-type="image/png"/>
+    <item id="licao03_ativ9_resp_h.png" href="Images/licao03_ativ9_resp_h.png" media-type="image/png"/>
+    <item id="licao03_ativ11_fig01-antigo.png" href="Images/licao03_ativ11_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao03_ativ11_fig01.png" href="Images/licao03_ativ11_fig01.png" media-type="image/png"/>
+    <item id="licao03_ativ11_fig01.svg" href="Images/licao03_ativ11_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_introducao-professor.png" href="Images/licao03_introducao-professor.png" media-type="image/png"/>
+    <item id="licao03_mapa-antigo.png" href="Images/licao03_mapa-antigo.png" media-type="image/png"/>
+    <item id="licao03_mapa.png" href="Images/licao03_mapa.png" media-type="image/png"/>
+    <item id="licao03_organizando_fig1.png" href="Images/licao03_organizando_fig1.png" media-type="image/png"/>
+    <item id="licao03_organizando_fig2.png" href="Images/licao03_organizando_fig2.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig_a_2.png" href="Images/licao03_orgideias_fig_a_2.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig_a_2.svg" href="Images/licao03_orgideias_fig_a_2.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_fig_a.png" href="Images/licao03_orgideias_fig_a.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig_a.svg" href="Images/licao03_orgideias_fig_a.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_fig_b_2.png" href="Images/licao03_orgideias_fig_b_2.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig_b.png" href="Images/licao03_orgideias_fig_b.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig05.png" href="Images/licao03_orgideias_fig05.png" media-type="image/png"/>
+    <item id="licao03_orgideias_fig05.svg" href="Images/licao03_orgideias_fig05.svg" media-type="image/svg+xml"/>
+    <item id="licao03_palmeira.png" href="Images/licao03_palmeira.png" media-type="image/png"/>
+    <item id="licao03_papiro.png" href="Images/licao03_papiro.png" media-type="image/png"/>
+    <item id="licao03_pedra.png" href="Images/licao03_pedra.png" media-type="image/png"/>
+    <item id="licao03_pizza.png" href="Images/licao03_pizza.png" media-type="image/png"/>
+    <item id="licao03_tartaruga.png" href="Images/licao03_tartaruga.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig01.png" href="Images/licao04_ativ2_fig01.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig01.svg" href="Images/licao04_ativ2_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ2_fig02.png" href="Images/licao04_ativ2_fig02.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig02.svg" href="Images/licao04_ativ2_fig02.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ2_fig03.png" href="Images/licao04_ativ2_fig03.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig03.svg" href="Images/licao04_ativ2_fig03.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ2_fig04.png" href="Images/licao04_ativ2_fig04.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig04.svg" href="Images/licao04_ativ2_fig04.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ2_fig05.png" href="Images/licao04_ativ2_fig05.png" media-type="image/png"/>
+    <item id="licao04_ativ2_fig06.png" href="Images/licao04_ativ2_fig06.png" media-type="image/png"/>
+    <item id="licao04_ativ4_fig01-antigo.png" href="Images/licao04_ativ4_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao04_ativ4_fig01.png" href="Images/licao04_ativ4_fig01.png" media-type="image/png"/>
+    <item id="licao04_ativ4_fig02-antigo.png" href="Images/licao04_ativ4_fig02-antigo.png" media-type="image/png"/>
+    <item id="licao04_ativ4_fig02.png" href="Images/licao04_ativ4_fig02.png" media-type="image/png"/>
+    <item id="licao04_ativ11_fig01-solucao.png" href="Images/licao04_ativ11_fig01-solucao.png" media-type="image/png"/>
+    <item id="licao04_ativ11_fig01.png" href="Images/licao04_ativ11_fig01.png" media-type="image/png"/>
+    <item id="licao04_ativ11_fig02.png" href="Images/licao04_ativ11_fig02.png" media-type="image/png"/>
+    <item id="licao04_ativ14_fig01.png" href="Images/licao04_ativ14_fig01.png" media-type="image/png"/>
+    <item id="licao04_ativ14_fig01.svg" href="Images/licao04_ativ14_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ20-fig01.png" href="Images/licao04_ativ20-fig01.png" media-type="image/png"/>
+    <item id="licao04_ativ20-fig02.png" href="Images/licao04_ativ20-fig02.png" media-type="image/png"/>
+    <item id="licao04_caminho-peao.jpeg" href="Images/licao04_caminho-peao.jpeg" media-type="image/jpeg"/>
+    <item id="licao04_dobradura-geogebra-10x1.png" href="Images/licao04_dobradura-geogebra-10x1.png" media-type="image/png"/>
+    <item id="licao04_dobradura-geogebra-10x2.png" href="Images/licao04_dobradura-geogebra-10x2.png" media-type="image/png"/>
+    <item id="licao04_dobradura-geogebra-10x3.png" href="Images/licao04_dobradura-geogebra-10x3.png" media-type="image/png"/>
+    <item id="licao04_dobradura-geogebra-10x4.png" href="Images/licao04_dobradura-geogebra-10x4.png" media-type="image/png"/>
+    <item id="licao04_dobradura-geogebra.png" href="Images/licao04_dobradura-geogebra.png" media-type="image/png"/>
+    <item id="licao04_geogebra-reta-numerica-equivalencia.png" href="Images/licao04_geogebra-reta-numerica-equivalencia.png" media-type="image/png"/>
+    <item id="licao04_quadrinho_01.png" href="Images/licao04_quadrinho_01.png" media-type="image/png"/>
+    <item id="licao04_quadrinho_01.svg" href="Images/licao04_quadrinho_01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_quadrinho_02.png" href="Images/licao04_quadrinho_02.png" media-type="image/png"/>
+    <item id="licao04_quadrinho_02.svg" href="Images/licao04_quadrinho_02.svg" media-type="image/svg+xml"/>
+    <item id="licao04_quadrinho_03.png" href="Images/licao04_quadrinho_03.png" media-type="image/png"/>
+    <item id="licao04_quadrinho_03.svg" href="Images/licao04_quadrinho_03.svg" media-type="image/svg+xml"/>
+    <item id="licao04_quadrinho_04.png" href="Images/licao04_quadrinho_04.png" media-type="image/png"/>
+    <item id="licao04_quadrinho_04.svg" href="Images/licao04_quadrinho_04.svg" media-type="image/svg+xml"/>
+    <item id="licao04_quadrinho-introducao.png" href="Images/licao04_quadrinho-introducao.png" media-type="image/png"/>
+    <item id="licao05_ativ1_fig01-antigo.png" href="Images/licao05_ativ1_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao05_ativ1_fig01.png" href="Images/licao05_ativ1_fig01.png" media-type="image/png"/>
+    <item id="licao05_ativ1_fig02-antigo.png" href="Images/licao05_ativ1_fig02-antigo.png" media-type="image/png"/>
+    <item id="licao05_ativ1_fig02.png" href="Images/licao05_ativ1_fig02.png" media-type="image/png"/>
+    <item id="licao05_ativ2_fig01-antigo.png" href="Images/licao05_ativ2_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao05_ativ2_fig01.png" href="Images/licao05_ativ2_fig01.png" media-type="image/png"/>
+    <item id="licao05_ativ2_fig01.svg" href="Images/licao05_ativ2_fig01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ3_fig01-antigo.png" href="Images/licao05_ativ3_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao05_ativ3_fig01.png" href="Images/licao05_ativ3_fig01.png" media-type="image/png"/>
+    <item id="licao05_ativ13-fig01.png" href="Images/licao05_ativ13-fig01.png" media-type="image/png"/>
+    <item id="licao05_ativ14_fig01-antigo.png" href="Images/licao05_ativ14_fig01-antigo.png" media-type="image/png"/>
+    <item id="licao05_ativ14_fig01.png" href="Images/licao05_ativ14_fig01.png" media-type="image/png"/>
+    <item id="licao05_ativ14_fig02.png" href="Images/licao05_ativ14_fig02.png" media-type="image/png"/>
+    <item id="licao05_ativ14_fig03.png" href="Images/licao05_ativ14_fig03.png" media-type="image/png"/>
+    <item id="cc.png" href="Images/cc.png" media-type="image/png"/>
+    <item id="impa.png" href="Images/impa.png" media-type="image/png"/>
+    <item id="logo.jpg" href="Images/logo.jpg" media-type="image/jpeg"/>
+    <item id="obmep.png" href="Images/obmep.png" media-type="image/png"/>
+    <item id="obmep2.png" href="Images/obmep2.png" media-type="image/png"/>
+    <item id="capa-fracoes.png" href="Images/capa-fracoes.png" media-type="image/png" properties="cover-image"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="licao01-aluno.xhtml" href="Text/licao01-aluno.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="licao02-aluno.xhtml" href="Text/licao02-aluno.xhtml" media-type="application/xhtml+xml" properties="scripted remote-resources"/>
+    <item id="licao03-aluno.xhtml" href="Text/licao03-aluno.xhtml" media-type="application/xhtml+xml" properties="scripted remote-resources"/>
+    <item id="licao04-aluno.xhtml" href="Text/licao04-aluno.xhtml" media-type="application/xhtml+xml" properties="scripted remote-resources"/>
+    <item id="licao05-aluno.xhtml" href="Text/licao05-aluno.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="bibliografia.xhtml" href="Text/bibliografia.xhtml" media-type="application/xhtml+xml" properties="scripted remote-resources"/>
+    <item id="intro_vetor01.svg" href="Images/intro_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ1_vetor01.svg" href="Images/licao01_ativ1_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ3_vetor01.svg" href="Images/licao01_ativ3_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ4_vetor01.svg" href="Images/licao01_ativ4_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ4_vetor02.svg" href="Images/licao01_ativ4_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ5_vetor01.svg" href="Images/licao01_ativ5_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ5_vetor02.svg" href="Images/licao01_ativ5_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ6_vetor01.svg" href="Images/licao01_ativ6_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ7_vetor01.svg" href="Images/licao01_ativ7_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ7_vetor02.svg" href="Images/licao01_ativ7_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ8_vetor01.svg" href="Images/licao01_ativ8_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ9_vetor01.svg" href="Images/licao01_ativ9_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ10_vetor01.svg" href="Images/licao01_ativ10_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ11_vetor01.svg" href="Images/licao01_ativ11_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ12_vetor01.svg" href="Images/licao01_ativ12_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao01_ativ13_vetor01.svg" href="Images/licao01_ativ13_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ1_vetor01.svg" href="Images/licao02_ativ1_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ2_vetor01.svg" href="Images/licao02_ativ2_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ2_vetor02.svg" href="Images/licao02_ativ2_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ3_vetor01.svg" href="Images/licao02_ativ3_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor01.svg" href="Images/licao02_ativ5_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor02.svg" href="Images/licao02_ativ5_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor03.svg" href="Images/licao02_ativ5_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor04.svg" href="Images/licao02_ativ5_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor05.svg" href="Images/licao02_ativ5_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor06.svg" href="Images/licao02_ativ5_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor07.svg" href="Images/licao02_ativ5_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor08.svg" href="Images/licao02_ativ5_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor09.svg" href="Images/licao02_ativ5_vetor09.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ5_vetor10.svg" href="Images/licao02_ativ5_vetor10.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ6_vetor01.svg" href="Images/licao02_ativ6_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ8_vetor01.svg" href="Images/licao02_ativ8_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ9_vetor01.svg" href="Images/licao02_ativ9_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ11_vetor01.svg" href="Images/licao02_ativ11_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor01.svg" href="Images/licao02_ativ15_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor02.svg" href="Images/licao02_ativ15_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor03.svg" href="Images/licao02_ativ15_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor04.svg" href="Images/licao02_ativ15_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor05.svg" href="Images/licao02_ativ15_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor06.svg" href="Images/licao02_ativ15_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor07.svg" href="Images/licao02_ativ15_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor08.svg" href="Images/licao02_ativ15_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor09.svg" href="Images/licao02_ativ15_vetor09.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor10.svg" href="Images/licao02_ativ15_vetor10.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor11.svg" href="Images/licao02_ativ15_vetor11.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor12.svg" href="Images/licao02_ativ15_vetor12.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor13.svg" href="Images/licao02_ativ15_vetor13.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor14.svg" href="Images/licao02_ativ15_vetor14.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor15.svg" href="Images/licao02_ativ15_vetor15.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor16.svg" href="Images/licao02_ativ15_vetor16.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor17.svg" href="Images/licao02_ativ15_vetor17.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor18.svg" href="Images/licao02_ativ15_vetor18.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor19.svg" href="Images/licao02_ativ15_vetor19.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor20.svg" href="Images/licao02_ativ15_vetor20.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor21.svg" href="Images/licao02_ativ15_vetor21.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor22.svg" href="Images/licao02_ativ15_vetor22.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor23.svg" href="Images/licao02_ativ15_vetor23.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ15_vetor24.svg" href="Images/licao02_ativ15_vetor24.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ16_vetor01.svg" href="Images/licao02_ativ16_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ17_vetor01.svg" href="Images/licao02_ativ17_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ18_vetor01.svg" href="Images/licao02_ativ18_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ18_vetor02.svg" href="Images/licao02_ativ18_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ18_vetor03.svg" href="Images/licao02_ativ18_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao02_ativ19_vetor01.svg" href="Images/licao02_ativ19_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor01.svg" href="Images/licao02_orgideias_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor02.svg" href="Images/licao02_orgideias_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor03.svg" href="Images/licao02_orgideias_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor04.svg" href="Images/licao02_orgideias_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor05.svg" href="Images/licao02_orgideias_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao02_orgideias_vetor06.svg" href="Images/licao02_orgideias_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ1_vetor01.svg" href="Images/licao03_ativ1_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ1_vetor02.svg" href="Images/licao03_ativ1_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ2_vetor01.svg" href="Images/licao03_ativ2_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor01.svg" href="Images/licao03_ativ3_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor02.svg" href="Images/licao03_ativ3_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor03.svg" href="Images/licao03_ativ3_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor04.svg" href="Images/licao03_ativ3_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor05.svg" href="Images/licao03_ativ3_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor06.svg" href="Images/licao03_ativ3_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor07.svg" href="Images/licao03_ativ3_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ3_vetor08.svg" href="Images/licao03_ativ3_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ4_vetor01.svg" href="Images/licao03_ativ4_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ4_vetor02.svg" href="Images/licao03_ativ4_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ5_vetor01.svg" href="Images/licao03_ativ5_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ5_vetor02.svg" href="Images/licao03_ativ5_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ6_vetor01.svg" href="Images/licao03_ativ6_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ6_vetor02.svg" href="Images/licao03_ativ6_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ7_vetor01.svg" href="Images/licao03_ativ7_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ8_vetor01.svg" href="Images/licao03_ativ8_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ9_vetor01.svg" href="Images/licao03_ativ9_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ10_vetor01.svg" href="Images/licao03_ativ10_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ10_vetor02.svg" href="Images/licao03_ativ10_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ10_vetor03.svg" href="Images/licao03_ativ10_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ10_vetor04.svg" href="Images/licao03_ativ10_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ11_vetor01.svg" href="Images/licao03_ativ11_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ12_vetor01.svg" href="Images/licao03_ativ12_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ13_vetor01.svg" href="Images/licao03_ativ13_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ14_vetor01.svg" href="Images/licao03_ativ14_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ15_vetor01.svg" href="Images/licao03_ativ15_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ16_vetor01.svg" href="Images/licao03_ativ16_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ16_vetor02.svg" href="Images/licao03_ativ16_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ17_vetor01.svg" href="Images/licao03_ativ17_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ18_vetor01.svg" href="Images/licao03_ativ18_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao03_ativ18_vetor02.svg" href="Images/licao03_ativ18_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor02.svg" href="Images/licao03_orgideias_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor03.svg" href="Images/licao03_orgideias_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor04.svg" href="Images/licao03_orgideias_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor05.svg" href="Images/licao03_orgideias_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor06.svg" href="Images/licao03_orgideias_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor07.svg" href="Images/licao03_orgideias_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor08.svg" href="Images/licao03_orgideias_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor09.svg" href="Images/licao03_orgideias_vetor09.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor10.svg" href="Images/licao03_orgideias_vetor10.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor11.svg" href="Images/licao03_orgideias_vetor11.svg" media-type="image/svg+xml"/>
+    <item id="licao03_orgideias_vetor01.svg" href="Images/licao03_orgideias_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ1_vetor01.svg" href="Images/licao04_ativ1_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ2_vetor01.svg" href="Images/licao04_ativ2_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ3_vetor01.svg" href="Images/licao04_ativ3_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ3_vetor02.svg" href="Images/licao04_ativ3_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ5_vetor01.svg" href="Images/licao04_ativ5_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ5_vetor02.svg" href="Images/licao04_ativ5_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ5_vetor03.svg" href="Images/licao04_ativ5_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ5_vetor04.svg" href="Images/licao04_ativ5_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ6_vetor01.svg" href="Images/licao04_ativ6_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ6_vetor02.svg" href="Images/licao04_ativ6_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ6_vetor03.svg" href="Images/licao04_ativ6_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ7_vetor01.svg" href="Images/licao04_ativ7_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ10_vetor01.svg" href="Images/licao04_ativ10_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ13_vetor01.svg" href="Images/licao04_ativ13_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ16_vetor01.svg" href="Images/licao04_ativ16_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao04_ativ17_vetor01.svg" href="Images/licao04_ativ17_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ2_vetor01.svg" href="Images/licao05_ativ2_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ2_vetor02.svg" href="Images/licao05_ativ2_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ2_vetor03.svg" href="Images/licao05_ativ2_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ3_vetor01.svg" href="Images/licao05_ativ3_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ3_vetor02.svg" href="Images/licao05_ativ3_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor01.svg" href="Images/licao05_ativ4_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor02.svg" href="Images/licao05_ativ4_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor03.svg" href="Images/licao05_ativ4_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor04.svg" href="Images/licao05_ativ4_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor05.svg" href="Images/licao05_ativ4_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor06.svg" href="Images/licao05_ativ4_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor07.svg" href="Images/licao05_ativ4_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor08.svg" href="Images/licao05_ativ4_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ4_vetor09.svg" href="Images/licao05_ativ4_vetor09.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ5_vetor01.svg" href="Images/licao05_ativ5_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ6_vetor01.svg" href="Images/licao05_ativ6_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ9_vetor01.svg" href="Images/licao05_ativ9_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ9_vetor02.svg" href="Images/licao05_ativ9_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ12_vetor01.svg" href="Images/licao05_ativ12_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ12_vetor02.svg" href="Images/licao05_ativ12_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ12_vetor03.svg" href="Images/licao05_ativ12_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao05_ativ12_vetor04.svg" href="Images/licao05_ativ12_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor01.svg" href="Images/licao05_orgideias_vetor01.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor02.svg" href="Images/licao05_orgideias_vetor02.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor03.svg" href="Images/licao05_orgideias_vetor03.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor04.svg" href="Images/licao05_orgideias_vetor04.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor05.svg" href="Images/licao05_orgideias_vetor05.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor06.svg" href="Images/licao05_orgideias_vetor06.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor07.svg" href="Images/licao05_orgideias_vetor07.svg" media-type="image/svg+xml"/>
+    <item id="licao05_orgideias_vetor08.svg" href="Images/licao05_orgideias_vetor08.svg" media-type="image/svg+xml"/>
+    <item id="quizlib.min.css" href="Styles/quizlib.min.css" media-type="text/css"/>
+    <item id="tex-chtml-full.js" href="Misc/tex-chtml-full.js" media-type="application/javascript"/>
+    <item id="stylesheet_quiz.css" href="Styles/stylesheet_quiz.css" media-type="text/css"/>
+    <item id="Roboto-Regular.ttf" href="Fonts/Roboto-Regular.ttf" media-type="font/ttf"/>
+    <item id="Roboto-Italic.ttf" href="Fonts/Roboto-Italic.ttf" media-type="font/ttf"/>
+    <item id="Roboto-Black.ttf" href="Fonts/Roboto-Black.ttf" media-type="font/ttf"/>
+    <item id="Roboto-BlackItalic.ttf" href="Fonts/Roboto-BlackItalic.ttf" media-type="font/ttf"/>
+    <item id="quizlib.1.0.1.js" href="Misc/quizlib.1.0.1.js" media-type="application/javascript"/>
+    <item id="MathJax_AMS-Regular.woff" href="Fonts/MathJax_AMS-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Calligraphic-Bold.woff" href="Fonts/MathJax_Calligraphic-Bold.woff" media-type="font/woff"/>
+    <item id="MathJax_Calligraphic-Regular.woff" href="Fonts/MathJax_Calligraphic-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Fraktur-Bold.woff" href="Fonts/MathJax_Fraktur-Bold.woff" media-type="font/woff"/>
+    <item id="MathJax_Fraktur-Regular.woff" href="Fonts/MathJax_Fraktur-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Main-Bold.woff" href="Fonts/MathJax_Main-Bold.woff" media-type="font/woff"/>
+    <item id="MathJax_Main-Italic.woff" href="Fonts/MathJax_Main-Italic.woff" media-type="font/woff"/>
+    <item id="MathJax_Main-Regular.woff" href="Fonts/MathJax_Main-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Math-BoldItalic.woff" href="Fonts/MathJax_Math-BoldItalic.woff" media-type="font/woff"/>
+    <item id="MathJax_Math-Italic.woff" href="Fonts/MathJax_Math-Italic.woff" media-type="font/woff"/>
+    <item id="MathJax_Math-Regular.woff" href="Fonts/MathJax_Math-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_SansSerif-Bold.woff" href="Fonts/MathJax_SansSerif-Bold.woff" media-type="font/woff"/>
+    <item id="MathJax_SansSerif-Italic.woff" href="Fonts/MathJax_SansSerif-Italic.woff" media-type="font/woff"/>
+    <item id="MathJax_SansSerif-Regular.woff" href="Fonts/MathJax_SansSerif-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Script-Regular.woff" href="Fonts/MathJax_Script-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Size1-Regular.woff" href="Fonts/MathJax_Size1-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Size2-Regular.woff" href="Fonts/MathJax_Size2-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Size3-Regular.woff" href="Fonts/MathJax_Size3-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Size4-Regular.woff" href="Fonts/MathJax_Size4-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Typewriter-Regular.woff" href="Fonts/MathJax_Typewriter-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Vector-Bold.woff" href="Fonts/MathJax_Vector-Bold.woff" media-type="font/woff"/>
+    <item id="MathJax_Vector-Regular.woff" href="Fonts/MathJax_Vector-Regular.woff" media-type="font/woff"/>
+    <item id="MathJax_Zero.woff" href="Fonts/MathJax_Zero.woff" media-type="font/woff"/>
+    <item id="licao01_quiz.js" href="Misc/licao01_quiz.js" media-type="application/javascript"/>
+    <item id="licao02_quiz.js" href="Misc/licao02_quiz.js" media-type="application/javascript"/>
+    <item id="licao03_quiz.js" href="Misc/licao03_quiz.js" media-type="application/javascript"/>
+    <item id="licao04_quiz.js" href="Misc/licao04_quiz.js" media-type="application/javascript"/>
+    <item id="licao05_quiz.js" href="Misc/licao05_quiz.js" media-type="application/javascript"/>
+    <item id="credenciais.js" href="Misc/credenciais.js" media-type="application/javascript"/>
+    <item id="dashboard.xhtml" href="Text/dashboard.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="creditos.xhtml"/>
+    <itemref idref="introducao.xhtml"/>
+    <itemref idref="licao01-aluno.xhtml"/>
+    <itemref idref="licao02-aluno.xhtml"/>
+    <itemref idref="licao03-aluno.xhtml"/>
+    <itemref idref="licao04-aluno.xhtml"/>
+    <itemref idref="licao05-aluno.xhtml"/>
+    <itemref idref="dashboard.xhtml"/>
+    <itemref idref="bibliografia.xhtml"/>
+  </spine>
+</package>
