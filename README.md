@@ -41,7 +41,7 @@ https://daisy.org/activities/software/ace/
  # O que devo fazer para funcionar?
 
  O arquivo **.epub** está pronto para funcionar em qualquer
- leitor de de livros eletrônicos que suportem os padrões do
+ leitor de livros eletrônicos que suporte os padrões de
   EPUB3 do W3C.
 
   Algumas sugestões:
