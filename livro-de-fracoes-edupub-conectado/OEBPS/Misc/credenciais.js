@@ -1,18 +1,22 @@
-var professor =   {
-    "nome": "Clecio Bachini",
-    "email": "cbachini@gmail.com"
-}
-
+//Entre aqui as credenciais do aluno
 var aluno =   {
-    "nome": "Reinaldo Ferraz",
-    "email": "reinaldo@nic.br"
+    "nome": "Nome do Aluno",
+    "email": "aluno@email.com"
 }
 
+
+//Entre aqui as credenciais do professor
+var professor =   {
+    "nome": "Nome do Professor",
+    "email": "professor@email.com"
+}
+
+//Entre aqui as credenciais de conexão com o LRS
 var xapi ={
     headers: {
         "Content-Type": "application/json",
         "X-Experience-API-Version": "1.0.3",
-        "Authorization": "Basic M2QzYTZiNWJkY2UyOWQ3MmIzZGZiYTE1YmJkMGE2N2YxY2FiOWVmNDozZTI4YTRlZDA5ZjRmNDQyNzkxNGZjNmE5ZTJmYTk0N2ZlYjRhN2Fm",
+        "Authorization": "Basic M2QzYTZiNWJkY2UyOWQ",
       },
-      endpoint: "https://xapi.soyuz.com.br/data/xAPI/statements"
+      endpoint: "https://xapi.xyz/data/xAPI/statements"
 }
