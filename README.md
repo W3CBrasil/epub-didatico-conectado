@@ -78,3 +78,5 @@ var xapi ={
       endpoint: "https://xapi.xyz/data/xAPI/statements"
 }
 ```
+
+Documentação sobre o projeto e passo a passo de instalação está disponível em [aqui](https://github.com/W3CBrasil/epub-didatico-conectado/blob/master/Documenta%C3%A7%C3%A3o%20de%20Implementa%C3%A7%C3%A3o%20-%20ePub%20Did%C3%A1tico%20Conectado.pdf)
