@@ -1,3 +1,5 @@
+[Use this link for content in english](https://github.com/W3CBrasil/epub-didatico-conectado/blob/master/README-en.md)
+
 <h1 align="center">
     <img src="https://ceweb.br/assets/img/logo-ceweb-br.png" alt="Logo do Ceweb"/>
 </h1>
