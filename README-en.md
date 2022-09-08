@@ -78,4 +78,4 @@ var xapi ={
 
 Each of the chapters on the book has a script related to its interactivity. In this project, the credentials are already related to each script, but it is important to highlight that, for new books, you will also need to alter the .js files inside the folder misc/
 
-Documentation about the project and a step-by-step of the installation process are available [here]([https://github.com/W3CBrasil/epub-didatico-conectado/blob/master/Documenta%C3%A7%C3%A3o%20de%20Implementa%C3%A7%C3%A3o%20-%20ePub%20Did%C3%A1tico%20Conectado.pdf](https://github.com/W3CBrasil/epub-didatico-conectado/blob/master/Implementation%20Documentation%20-%20EduPub.pdf))
+Documentation about the project and a step-by-step of the installation process are available [here](https://github.com/W3CBrasil/epub-didatico-conectado/blob/master/Implementation%20Documentation%20-%20EduPub.pdf)
